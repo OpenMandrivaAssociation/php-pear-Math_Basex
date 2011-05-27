@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3
-Release:	%mkrel 12
+Release:	%mkrel 13
 Summary:	%{_class}_%{_subclass} - Base X conversion class
 License:	PHP License
 Group:		Development/PHP
