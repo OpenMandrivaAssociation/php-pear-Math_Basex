@@ -8,7 +8,7 @@ Release:	16
 Summary:	%{_class}_%{_subclass} - Base X conversion class
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_Basex/
+URL:		https://pear.php.net/package/Math_Basex/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
